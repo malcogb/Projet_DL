@@ -11,12 +11,14 @@ Ce projet utilise deux modèles puissants :
 > - l'analyse de sentiment
 > - l'export des résultats en JSON et CSV
 
+# Lien Repo GitHub 
+Lien : `https://github.com/malcogb/Projet_DL.git`
 ---
 
 ## Fonctionnalités
 
-- **Transcription automatique** d'audio `.wav` (modèle : `jonatasgrosman/wav2vec2-large-xlsr-53-french`lien : )
-- **Analyse de sentiment** (modèle : `cardiffnlp/twitter-xlm-roberta-base-sentiment` lien : )
+- **Transcription automatique** d'audio `.wav` (modèle : `jonatasgrosman/wav2vec2-large-xlsr-53-french` lien : `https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-french`)
+- **Analyse de sentiment** (modèle : `cardiffnlp/twitter-xlm-roberta-base-sentiment` lien : `https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment`)
 - **Export des résultats** en :
   - `results.json` (historique des prédictions)
   - `results.csv` (version tabulaire exploitable)
