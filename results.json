@@ -52,5 +52,14 @@
         "score_moyen": 0.452,
         "horodatage": "2025-07-14T01:55:31.312335",
         "nom_du_fichier": "audio_6.wav"
+    },
+    {
+        "transcription": "a cette fin peu semblable celi que j'exerce nettement",
+        "sentiment": "negative",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.452,
+        "horodatage": "2025-07-14T20:19:49.898916",
+        "nom_du_fichier": "audio_6.wav"
     }
 ]
