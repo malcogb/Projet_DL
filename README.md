@@ -45,14 +45,21 @@ Après avoir fini le déloppement et test avec **Gradio** sur Colab, nous avons 
 - Sur Colab : Nous lançons l’interface Gradio avec `demo.launch(share=True)` en fin de NoteBook Colab. accessible sur URL: `https://f9556ddf0a8961a72b.gradio.live`
 - Dans VSCode, notre API (FastAPI) a été développée en Python et nommée `app.py`. Nous lançons l'API avec la commande `uvicorn app:app --reload`. Une fois que le serveur **FastAPI** de notre **API** a démarré, nous nous connectons à l'interface web (`http://127.0.0.1:8000`) ou directement sur `http://127.0.0.1:8000/docs`.
 
-### 7. Exemple de sortie
+### 7. Endpoints de l'API
+Nous avons utilisé 3 endpoints à savoir :
+- **@app.post("/audio_transcription and sentiment_analyze/")** pour permettre à l'utilisateur d'envoyer à l'API le fichier audio
+- **@app.get("/download_json/")** pour permettre à l'utilisateur de télécharger le résultat du traitement et de la prédiction en fichier JSON
+- **@app.get("/download_csv/")** pour permettre à l'utilisateur de télécharger le résultat du traitement et de la prédiction en fichier CSV
 
-### 8. Export
+### 8. Exemple de sortie après traitement du fichier audio
+voir dossier capture
+
+### 9. Export
 **Après chaque analyse :**
 - les résultats sont ajoutés dans results.json
 - puis convertis automatiquement en results.csv
 
-**Champs :**
+**10. Contenu des fichiers JSON et CSV :**
 - Transcription
 - Sentiment
 - Confiance
@@ -61,5 +68,11 @@ Après avoir fini le déloppement et test avec **Gradio** sur Colab, nous avons 
 - Date (horodatage)
 - Nom du fichier audio
 
-### 9. Auteur
+### 11. À faire / améliorations possibles
+- Authentification des utilisateurs
+- Support multilingue étendu
+- Interface front-end pour visualiser les résultats
+- Déploiement sur HuggingFace Spaces ou Docker
+
+### 12. Auteur
 Projet développé par **Malco GBAKPA** étudiant en **Master 2 IA** Spécialité **Data Science**
