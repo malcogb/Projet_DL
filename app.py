@@ -1,3 +1,5 @@
+# LE SCRIPT DE CREATION DE L'API AVEC FastAPI
+
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from pydantic import BaseModel
 from transformers import pipeline, XLMRobertaTokenizer, AutoModelForSequenceClassification
