@@ -1,0 +1,56 @@
+[
+    {
+        "transcription": "j'ai pensé à par femme en triste quand je change de de bodo",
+        "sentiment": "negative",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.854,
+        "horodatage": "2025-07-14T01:54:04.424592",
+        "nom_du_fichier": "audio_3.wav"
+    },
+    {
+        "transcription": "alors si je me considère chanceuse satrape le travail et j'avais exercé au situee",
+        "sentiment": "positive",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.444,
+        "horodatage": "2025-07-14T01:54:21.476289",
+        "nom_du_fichier": "audio_5.wav"
+    },
+    {
+        "transcription": "franchement je vois tes sales parti et pourquoi te change pas de le travail du ville tu la possèdes",
+        "sentiment": "negative",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.526,
+        "horodatage": "2025-07-14T01:54:50.191541",
+        "nom_du_fichier": "audio_2.wav"
+    },
+    {
+        "transcription": "mais non en fait avec ma ni expérience est-ce que j'ai changé de travail avec plusieurs sociétés",
+        "sentiment": "neutral",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.448,
+        "horodatage": "2025-07-14T01:55:01.014656",
+        "nom_du_fichier": "audio_1.wav"
+    },
+    {
+        "transcription": "ancien peu ses pas le même environnement tout d'abord",
+        "sentiment": "negative",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.582,
+        "horodatage": "2025-07-14T01:55:22.591092",
+        "nom_du_fichier": "audio_4.wav"
+    },
+    {
+        "transcription": "a cette fin peu semblable celi que j'exerce nettement",
+        "sentiment": "negative",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.452,
+        "horodatage": "2025-07-14T01:55:31.312335",
+        "nom_du_fichier": "audio_6.wav"
+    }
+]
