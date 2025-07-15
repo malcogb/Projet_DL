@@ -3,7 +3,7 @@
 # 🎙️ Analyse de Sentiment Vocal avec Transcription Automatique
 
 Ce projet utilise deux modèles puissants :
-- **Wav2Vec2** pour la transcription vocale en texte (speech-to-text)
+- **Wav2Vec2** pour la transcription vocale en texte (speech-to-text). Ici, notre modèle traite les fichiers audios en extension **.wav**. Pour garantir cela, nous avons avons converti tous les autres types de format que l'utilisateur peut soumettre en un fichie audion d'extension **.wav** avec la fonction **convert_to_wav**.
 - **RoBERTa** pour l’analyse de sentiment à partir du texte transcrit
 
 > **Objectif :** Permettre à un utilisateur d'uploader un fichier audio `.wav` pour obtenir automatiquement :
@@ -71,6 +71,7 @@ voir dossier capture
 - Nom du fichier audio
 
 ### 11. À faire / améliorations possibles
+- Mettre une protection contre la soumission des fichiers qui ne sont des audios par l'utilisateur
 - Authentification des utilisateurs
 - Support multilingue étendu
 - Interface front-end pour visualiser les résultats

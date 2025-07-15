@@ -1,8 +1,9 @@
-transcription,sentiment,confiance,nb_chunks,score_moyen,horodatage,nom_du_fichier
-j'ai pensé à par femme en triste quand je change de de bodo,negative,1.0,1,0.854,2025-07-14T01:54:04.424592,audio_3.wav
-alors si je me considère chanceuse satrape le travail et j'avais exercé au situee,positive,1.0,1,0.444,2025-07-14T01:54:21.476289,audio_5.wav
-franchement je vois tes sales parti et pourquoi te change pas de le travail du ville tu la possèdes,negative,1.0,1,0.526,2025-07-14T01:54:50.191541,audio_2.wav
-mais non en fait avec ma ni expérience est-ce que j'ai changé de travail avec plusieurs sociétés,neutral,1.0,1,0.448,2025-07-14T01:55:01.014656,audio_1.wav
-ancien peu ses pas le même environnement tout d'abord,negative,1.0,1,0.582,2025-07-14T01:55:22.591092,audio_4.wav
-a cette fin peu semblable celi que j'exerce nettement,negative,1.0,1,0.452,2025-07-14T01:55:31.312335,audio_6.wav
-a cette fin peu semblable celi que j'exerce nettement,negative,1.0,1,0.452,2025-07-14T20:19:49.898916,audio_6.wav
+transcription,sentiment_majoritaire,confiance
+j'ai pensé à par femme en triste quand je change de de bodo,,1.0
+alors si je me considère chanceuse satrape le travail et j'avais exercé au situee,,1.0
+franchement je vois tes sales parti et pourquoi te change pas de le travail du ville tu la possèdes,,1.0
+mais non en fait avec ma ni expérience est-ce que j'ai changé de travail avec plusieurs sociétés,,1.0
+ancien peu ses pas le même environnement tout d'abord,,1.0
+a cette fin peu semblable celi que j'exerce nettement,,1.0
+a cette fin peu semblable celi que j'exerce nettement,,1.0
+alors si je me considère chanceuse satrape le travail et j'avais exercé au situee,,1.0

@@ -61,5 +61,14 @@
         "score_moyen": 0.452,
         "horodatage": "2025-07-14T20:19:49.898916",
         "nom_du_fichier": "audio_6.wav"
+    },
+    {
+        "transcription": "alors si je me considère chanceuse satrape le travail et j'avais exercé au situee",
+        "sentiment": "positive",
+        "confiance": 1.0,
+        "nb_chunks": 1,
+        "score_moyen": 0.444,
+        "horodatage": "2025-07-15T00:32:56.892702",
+        "nom_du_fichier": "audio_5.wav"
     }
 ]

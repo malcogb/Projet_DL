@@ -118,7 +118,7 @@ def export_to_csv(json_path="results.json", csv_path="results.csv"):
 
 # ----------- API Endpoint -----------
 
-@app.post("/audio_transcription and sentiment_analyze/")
+@app.post("/audio_transcription_and_sentiment_analyze/")
 async def analyze_audio(file: UploadFile = File(...)):
     if not file:
         raise HTTPException(status_code=400, detail="Aucun fichier audio fourni.")
